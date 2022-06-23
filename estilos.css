@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*{
+    margin: 0%;
+    font-family: 'Lobster', cursive;
+    
+}
+.menu{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    height: 80px;
+}
+.enlaces{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+.logo{
+    width: 50px;
+   
+    border-radius: 50%
+
+}
+.title1{
+    font-family:;
+}
+.elements{
+    margin: 10px;
+    border:10px solid yellow ;
+    padding: 10px;
+
+}
+.imagenes{
+    width:380px;height: 380px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.icono{
+    width: 150px;
+    height: 110px;
+    font-size: 100px;
+    color: darkgoldenrod;
+    background-color: black;
+    border-radius: 50px;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+}
+.pie_pagina{
+    display: flex;
+    justify-content: center;
+}
+.contactos{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-transform:capitalize;
+}
+.cuerpo{
+    background-color: darkkhaki;
+}
+
